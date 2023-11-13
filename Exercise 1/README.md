@@ -180,7 +180,7 @@ Output: 5x9
 * * * * * 
 ```
 
-__Example 2__: Draw rectangular 8x8
+__Example 2__: Draw square 8x8
 
 ```
 ----- Draw picture ----- 
